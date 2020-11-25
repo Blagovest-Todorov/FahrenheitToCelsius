@@ -1,0 +1,13 @@
+C:\Users\Bla\source\repos\Methods\02.FahrenheitToCelsiusConverter\bin\Debug\netcoreapp3.1\02.FahrenheitToCelsiusConverter.exe
+C:\Users\Bla\source\repos\Methods\02.FahrenheitToCelsiusConverter\bin\Debug\netcoreapp3.1\02.FahrenheitToCelsiusConverter.deps.json
+C:\Users\Bla\source\repos\Methods\02.FahrenheitToCelsiusConverter\bin\Debug\netcoreapp3.1\02.FahrenheitToCelsiusConverter.runtimeconfig.json
+C:\Users\Bla\source\repos\Methods\02.FahrenheitToCelsiusConverter\bin\Debug\netcoreapp3.1\02.FahrenheitToCelsiusConverter.runtimeconfig.dev.json
+C:\Users\Bla\source\repos\Methods\02.FahrenheitToCelsiusConverter\bin\Debug\netcoreapp3.1\02.FahrenheitToCelsiusConverter.dll
+C:\Users\Bla\source\repos\Methods\02.FahrenheitToCelsiusConverter\bin\Debug\netcoreapp3.1\02.FahrenheitToCelsiusConverter.pdb
+C:\Users\Bla\source\repos\Methods\02.FahrenheitToCelsiusConverter\obj\Debug\netcoreapp3.1\02.FahrenheitToCelsiusConverter.csprojAssemblyReference.cache
+C:\Users\Bla\source\repos\Methods\02.FahrenheitToCelsiusConverter\obj\Debug\netcoreapp3.1\02.FahrenheitToCelsiusConverter.AssemblyInfoInputs.cache
+C:\Users\Bla\source\repos\Methods\02.FahrenheitToCelsiusConverter\obj\Debug\netcoreapp3.1\02.FahrenheitToCelsiusConverter.AssemblyInfo.cs
+C:\Users\Bla\source\repos\Methods\02.FahrenheitToCelsiusConverter\obj\Debug\netcoreapp3.1\02.FahrenheitToCelsiusConverter.csproj.CoreCompileInputs.cache
+C:\Users\Bla\source\repos\Methods\02.FahrenheitToCelsiusConverter\obj\Debug\netcoreapp3.1\02.FahrenheitToCelsiusConverter.dll
+C:\Users\Bla\source\repos\Methods\02.FahrenheitToCelsiusConverter\obj\Debug\netcoreapp3.1\02.FahrenheitToCelsiusConverter.pdb
+C:\Users\Bla\source\repos\Methods\02.FahrenheitToCelsiusConverter\obj\Debug\netcoreapp3.1\02.FahrenheitToCelsiusConverter.genruntimeconfig.cache
