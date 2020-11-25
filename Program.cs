@@ -17,6 +17,10 @@ namespace _02.FahrenheitToCelsiusConverter
             {
                 Console.WriteLine("You might be ill ");
             }
+            else if (temperatureInCelsius <= 27)
+            {
+                Console.WriteLine("You have Hypothermia");
+            }
 
 
         }
